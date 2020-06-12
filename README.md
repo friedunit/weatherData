@@ -11,9 +11,9 @@ The 7-day forecast data is pulled from NOAA at weather.gov and displayed with it
 I used Google Maps API to display a map of the area and used either ClimaCell or openWeatherMap weather layers to overlay the map and show precipitation, cloud cover, and temperature. The radio buttons will update the map with the new layer when clicked.
 
 Screen shots to give you an idea of current status:
-![Screenshot1](https://raw.githubusercontent.com/friedunit/weatherData/master/ScreenShots/Screen%20Shot%202020-05-31%20at%2012.28.08%20PM.png)
-![Screenshot2](https://raw.githubusercontent.com/friedunit/weatherData/master/ScreenShots/Screen%20Shot%202020-05-31%20at%2012.28.25%20PM.png)
-![Screenshot3](https://raw.githubusercontent.com/friedunit/weatherData/master/ScreenShots/Screen%20Shot%202020-05-31%20at%2012.28.46%20PM.png)
+![Screenshot1](https://raw.githubusercontent.com/friedunit/weatherData/master/ScreenShots/Screen%20Shot%202020-06-11%20at%208.09.17%20PM.png)
+![Screenshot2](https://raw.githubusercontent.com/friedunit/weatherData/master/ScreenShots/Screen%20Shot%202020-06-11%20at%208.09.39%20PM.png)
+![Screenshot3](https://raw.githubusercontent.com/friedunit/weatherData/master/ScreenShots/Screen%20Shot%202020-06-11%20at%208.09.55%20PM.png)
 
 **This was built in Eclipse running on Apache Tomcat so you will need a web server running. I also needed to install json-simple-1.1.jar to handle the JSON files in Java:
 http://www.java2s.com/Code/Jar/j/Downloadjsonsimple11jar.htm
