@@ -1,6 +1,6 @@
 Hello and welcome to my Weather Data project!
 
-Contributions are welcome but PLEASE use your own API Keys! The ones in here are just for development and not intended for heavy use. Too many requests will cause errors anyway (which is another thing on the 'to do' list.)
+Contributions are welcome but you must sign up for your own API Keys. APIs used: Google Maps, OpenWeatherMap, weatherAPI.com, ClimaCell. They are free, just sign up. Mine are stored as local environment variables and are not intended for heavy use. Too many requests will cause errors anyway (which is another thing on the 'to do' list.)
 
 I started this project when I was learning Java Servlets and JSP and decided to create this dynamic web application to pull data from different weather APIs to display data and maps.
 
@@ -28,7 +28,6 @@ This web application works at the moment but is still pretty raw. When I was fir
 -I want to move away from Google Maps, maybe to open street map or MapBox. 
 -Several front-end CSS styling would make everything look much better. Right now it has a simple "dark mode" feel.
 -Better management of API keys needs to be done with exception handling for too many requests
--The layers need to be adjusted. ClimaCell layers look better than openWeatherMap. Legends need to be implemented for the different layers.
 -More weather data including moon phase and tides should be added.
 -The ability to enter a city instead of just a zipcode should be added as well.
 -Right now its set to work in the US, worldwide capability should be added
