@@ -25,10 +25,10 @@ This web application works at the moment but is still pretty raw. When I was fir
 1. Weather is so important, and like most people, I have several weather apps on my phone that give slight variations in data or data that others don't supply. Having one source that gives everything would be beneficial. Or it could display data from several sources to compare the data.
 2. With the map, you don't often see driving directions with accurate weather layers anymore. Google Maps used to have this option but not anymore. Having a radar overlay with weather data for origin and destination would be great.
 
--I want to move away from Google Maps, maybe to open street map or MapBox. 
--Several front-end CSS styling would make everything look much better. Right now it has a simple "dark mode" feel.
--Better management of API keys needs to be done with exception handling for too many requests
--More weather data including moon phase and tides should be added.
--The ability to enter a city instead of just a zipcode should be added as well.
--Right now its set to work in the US, worldwide capability should be added
--Ability to adjust metric/imperial
+- I want to move away from Google Maps, maybe to open street map or MapBox. 
+- Several front-end CSS styling would make everything look much better. Right now it has a simple "dark mode" feel.
+- Better management of API keys needs to be done with exception handling for too many requests
+- More weather data including moon phase and tides should be added.
+- The ability to enter a city instead of just a zipcode should be added as well.
+- Right now its set to work in the US, worldwide capability should be added
+- Ability to adjust metric/imperial
